@@ -1,0 +1,7 @@
+.appContainer {
+  display: grid;
+
+  grid-template:
+    "head" 88px
+    "main" 1fr
+}

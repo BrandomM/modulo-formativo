@@ -1,0 +1,10 @@
+.tag {
+  display: block !important;
+  cursor: pointer;
+  font: var(--typography-text) CabifyCircular;
+}
+
+.inactiveTag {
+  padding: 4px 12px;
+  display: block;
+}
